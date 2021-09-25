@@ -2,3 +2,7 @@ html,body{
     margin: 0;
     padding: 0;
 }
+
+.header{
+    background-image: url("./../images/header_bg_1.jpg");
+}
